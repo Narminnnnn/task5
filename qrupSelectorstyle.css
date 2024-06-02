@@ -1,0 +1,40 @@
+div {
+    max-width: 100%;
+    height:auto
+    }
+img{
+    width: 10%;
+    height: auto;
+    float: left;
+padding: 5px;
+
+}
+span{
+    border: 20px;
+    width: 40;
+}
+*{
+    background-color: black;
+    color: aliceblue;
+}
+div p{
+    text-align: center;
+    color: aliceblue;
+padding: 10px;
+font-size: 2rem;
+}
+ #about{
+    margin: 0 auto;
+}
+#second {
+    background-image: url("https://cdn.sanity.io/images/tlr8oxjg/production/5c3120359be5c4f225cd7b817811217041b759ab-1192x668.png?w=3840&q=100&fit=clip&auto=format");
+    max-width: 100%;
+    height: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+/* background-position: cover; */
+background-size: cover;
+}
+header{
+    padding: 20px;
+}
